@@ -1,4 +1,4 @@
-# TDLR
+# TLTR
 A única coisa necessária é colocar um DATABASE_URL na .env do back, rodar o comando yarn db:migrate.
 Fora isso se você usar yarn dev, em ambos, já funcionará.
 
